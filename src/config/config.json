@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "jbzqjjyi",
+    "password": "lkDG69wBvt6-K23RN6cVTi0Nm5DKTFaw",
+    "database": "jbzqjjyi",
+    "host": "kandula.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
